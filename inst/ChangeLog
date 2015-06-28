@@ -1,0 +1,7 @@
+# dcextras package version history
+
+## Version 0.1-1, June 28, 2015
+
+* Package structure created.
+* `stan.fit`, `stan.parfit` and related functions added.
+* Documentation is incomplete.
